@@ -1,0 +1,10 @@
+v 1.0.0
+d 'ECHO': prints the given character string in Stata
+d 
+d echo is a simple Stata program that is documented using Markdown format, in order to facilitate software documentation, particularly on social coding sites such as GitHub. the documentation can be extracted as Markdown file for GitHub wiki or as STHLP file using markdoc software.
+d 
+d Distribution-Date:   20190523
+d License: MIT
+d 
+F echo.ado
+F echo.sthlp
