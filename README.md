@@ -16,8 +16,8 @@ To follow the tutorials, first make sure that you have all of the required softw
 
 - make sure to install [`github`](https://github.com/haghish/github) package within Stata
 - make sure you have [`markdoc`](https://github.com/haghish/markdoc) package installed
-- fork this repository using __`https://github.com/haghish/echo.git`__ address
-- fork the repository's Wiki using __`https://github.com/haghish/echo.wiki.git`__ address
+- fork this repository using `https://github.com/haghish/echo.git` address
+- fork the repository's Wiki using _`https://github.com/haghish/echo.wiki.git` address
 
 And you are good to go with the tutorial!
 
