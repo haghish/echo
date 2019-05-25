@@ -2,8 +2,8 @@ v 1.0.0
 d Materials by E. F. Haghish
 d University of Goettingen
 d haghish@med.uni-goettingen.de
-d https://github.com/haghish
+d http://github.com/haghish
 
-d 'echo': echo is a simple Stata program that is documented using Markdown format, in order to facilitate software documentation, particularly on social coding sites such as GitHub. the documentation can be extracted as Markdown file for GitHub wiki or as STHLP file using markdoc software.
+d 'echo': a program that displays the given string
 
 p echo
