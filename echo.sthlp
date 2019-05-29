@@ -17,12 +17,14 @@
 {p 4 4 2}
 The {bf:echo} command also takes the following options:
 
-{col 5}{it:option}  {col 16}{it:Description}              
-{space 4}{hline 40}
-{col 5}{bf:red}   {col 16}print the text in red color 
-{col 5}{bf:bf}    {col 16}bold face text              
-{col 5}{bf:it}    {col 16}italic face text            
-{space 4}{hline 40}
+
+{col 5}{it:option}{col 16}{it:Description}
+{space 4}{hline 41}
+{col 5}{bf:red}{col 16}print the text in red color
+{col 5}{bf:bf}{col 16}bold face text
+{col 5}{bf:it}{col 16}italic face text
+{space 4}{hline 41}
+
 
 {title:Description}
 
@@ -42,9 +44,11 @@ Display "Hello World" in red color
 
 
 {title:Author}
-     
-{browse "https://github.com/haghish/":E. F. Haghish}    {break}
-{it:haghish@med.uni-goesttingen.de}
+
+{p 4 4 2}
+E. F. Haghish    {break}
+{it:haghish@med.uni-goesttingen.de}    {break}
+{browse "https://github.com/haghish/echo":https://github.com/haghish/echo}    {break}
 
 
 {title:License}

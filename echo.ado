@@ -1,5 +1,3 @@
-// this doumentation is written for MARKDOC literate programming software
-
 /***
 _v. 1.0.0_
 
@@ -17,11 +15,13 @@ Syntax
 
 The __echo__ command also takes the following options:
 
-| _option_  |  _Description_              |
-|:----------|:----------------------------|
-| __red__   | print the text in red color |
-| __bf__    | bold face text              |
-| __it__    | italic face text            |
+
+| _option_  |  _Description_              | 
+|:----------|:----------------------------| 
+| __red__   | print the text in red color | 
+| __bf__    | bold face text              | 
+| __it__    | italic face text            | 
+
 
 Description
 -----------
@@ -40,9 +40,10 @@ Display "Hello World" in red color
      
 Author
 ------
-     
-[E. F. Haghish](https://github.com/haghish/)  
-_haghish@med.uni-goesttingen.de_
+
+E. F. Haghish  
+_haghish@med.uni-goesttingen.de_  
+[https://github.com/haghish/echo](https://github.com/haghish/echo)  
 
 License
 -------
