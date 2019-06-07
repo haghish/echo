@@ -51,7 +51,10 @@ License
 MIT License
 ***/
 
+cap prog drop echo
 program echo
+  macro drop CurrentMarkDocDofile
+  macro list CurrentMarkDocDofile
 	version 14                                 //minimum required Stata version
 	syntax anything [, red bf it]              //program syntax
 	if missing("`red'") local red txt          //make 'txt' the default format 
