@@ -25,3 +25,8 @@ markdoc "echo.ado" , mini export(md) replace
 
 // generating a HTML package vignette to be hosted elsewhere on the internet
 markdoc "echo.ado" , mini export(html) replace style("simple")
+
+// generating the stata help file for the auto.dta dataset
+* sysuse auto, clear
+* datadoc 
+markdoc "auto.do", export(sthlp) replace
