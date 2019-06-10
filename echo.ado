@@ -1,10 +1,12 @@
+// documentation written for markdoc software; visit github.com/haghish/markdoc
+
 /***
-_v. 1.0.0_
+_version 1.0_
 
-Title
-=====
+echo
+====
 
-__echo__ - a program that displays the given string in Stata
+a program that displays the given string in Stata
 
 Syntax
 ------
@@ -13,15 +15,11 @@ Syntax
 
 ### Options
 
-The __echo__ command also takes the following options:
-
-
 | _option_  |  _Description_              | 
 |:----------|:----------------------------| 
 | __red__   | print the text in red color | 
 | __bf__    | bold face text              | 
 | __it__    | italic face text            | 
-
 
 Description
 -----------

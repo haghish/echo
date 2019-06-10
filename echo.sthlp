@@ -1,11 +1,11 @@
 {smcl}
-{it:v. 1.0.0}
+{it:version 1.0}
 
 
-{title:Title}
+{title:echo}
 
 {p 4 4 2}
-{bf:echo} - a program that displays the given string in Stata
+a program that displays the given string in Stata
 
 
 {title:Syntax}
@@ -14,17 +14,12 @@
 
 {p 4 4 2}{bf:Options}
 
-{p 4 4 2}
-The {bf:echo} command also takes the following options:
-
-
 {col 5}{it:option}{col 16}{it:Description}
 {space 4}{hline 41}
 {col 5}{bf:red}{col 16}print the text in red color
 {col 5}{bf:bf}{col 16}bold face text
 {col 5}{bf:it}{col 16}italic face text
 {space 4}{hline 41}
-
 
 {title:Description}
 
